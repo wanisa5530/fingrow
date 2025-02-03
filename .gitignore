@@ -1,3 +1,20 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .DS_Store
+=======
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+venv/
+__pycache__/
+
+# IDE / System
+.DS_Store
+.vscode/
+*.log
+.env
+>>>>>>> 3d08186818692a3b98ab68d51f8ffd146ec7f62a
